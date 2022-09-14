@@ -94,14 +94,12 @@ void loop()
  ### Output of the simulation :
  BEFORE RUNNING THE SIMULATION:
 
+ ![1 (1)](https://user-images.githubusercontent.com/113031811/190083661-3baf5c6f-a4fc-4560-86ac-7f97f0c70f24.PNG)
  
- 
- 
- 
+### Output of the simulation :
+
+![2](https://user-images.githubusercontent.com/113031811/190083688-e300ddda-9d5f-4105-a763-03608c2a3e19.PNG)
 
 
 
-Output of the simulation :
-
-[My image](username.github.com/repository/img/image.jpg)
 
